@@ -1,6 +1,6 @@
 # Engineering Manager README
 
-This document shares my core values, expectations, and management approach. My aim is to build a supportive, high-performing, and creative team environment where we can all accomplish meaningful work together. What I outline here is shaped by my personal values, industry research, and insights from conversations with other managers.
+This document shares my core values, expectations, and management approach. My aim is to build a supportive, high performing, and creative team environment where we can all accomplish meaningful work together. What I outline here is shaped by my personal values, industry research, and insights from conversations with other managers.
 
 ## My Key Values and Approach
 
@@ -11,7 +11,7 @@ This document shares my core values, expectations, and management approach. My a
    I believe my team members are experts in their fields. My role is to set them up for success by giving them clear goals, sharing important context, offering ongoing support from both myself and the broader team, and making sure they have the space for focused work. I generally take a hands-off approach and am available when you need assistance. If a situation calls for it, my experience allows me to provide more direct guidance.
 
 3. **Building Trust and Open Communication**  
-   I make it a priority to create a team atmosphere where everyone feels comfortable sharing ideas or raising concerns. I always try to see the best in others, assuming that disagreements usually stem from misunderstandings, not bad intentions. I encourage everyone to communicate with this same spirit—it helps us stay open and positive as a group.
+   I make it a priority to create a team atmosphere where everyone feels comfortable sharing ideas or raising concerns. I always try to see the best in others, assuming that disagreements usually stem from misunderstandings, not bad intentions. I encourage everyone to communicate with this same spirit it helps us stay open and positive as a group.
 
 4. **Practicing Accountability**  
    While independence and trust are essential, they need to be matched with personal responsibility. Without accountability, we risk losing momentum. Being reliable ensures we keep up our standards while maintaining a healthy and empowering work environment.
