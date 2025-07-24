@@ -23,7 +23,7 @@ This document shares my core values, expectations, and management approach. My a
    I believe that frequently overworking or stressing out a team damages creativity, which is vital in our field. I support practices like regular releases and automated testing to keep our work stable and to protect time for creative work.
 
 7. **Truthful, Clear, and Genuine Communication**  
-   Honesty and authenticity are very important to me. At work, it can be tricky—what feels direct to one person might seem harsh to another. That’s why I recommend talking with colleagues about how they like to give and receive feedback.  
+   Honesty and authenticity are very important to me. At work, it can be tricky what feels direct to one person might seem harsh to another. That’s why I recommend talking with colleagues about how they like to give and receive feedback.  
    - **How I prefer to communicate:** Please be direct and factual with me, and offer suggestions on how to move forward. If you bring up a problem, come with a possible solution or be ready to brainstorm together.  
    - **How to give me feedback:** Just be straightforward, provide details, and share actionable ideas I can put into practice.
 
