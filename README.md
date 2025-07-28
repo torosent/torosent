@@ -17,7 +17,7 @@ This document outlines my core values, expectations, and management approach. My
    - **Direct Access:** If you have a question or issue, reach out to me without hesitation.
 
 4. **Accountability and Reliability**  
-   Autonomy must be balanced with personal responsibility. Being dependable maintains our standards and supports a healthy work environment. I take commitments seriously and expect the same—though I understand legitimate obstacles may arise.
+   Autonomy must be balanced with personal responsibility. Being dependable maintains our standards and supports a healthy work environment. I take commitments seriously and expect the same, though I understand legitimate obstacles may arise.
 
 5. **Collaboration and Knowledge Sharing**  
    Siloed knowledge creates bottlenecks. I encourage teamwork and open sharing of expertise to drive better outcomes, avoiding over-centralization or micromanagement.
