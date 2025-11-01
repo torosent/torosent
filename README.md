@@ -1,8 +1,14 @@
-# Engineering Manager README
+
+[![](https://raw.githubusercontent.com/torosent/github-profile-summary-cards/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/torosent/github-profile-summary-cards/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/torosent/github-profile-summary-cards/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/torosent/github-profile-summary-cards/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/torosent/github-profile-summary-cards/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+## Engineering Manager README
 
 This document outlines my core values, expectations, and management approach. My goal is to foster a supportive, high-performing, and creative team environment for meaningful work. These principles are informed by my values, industry research, and insights from other managers.
 
-## Core Values and Management Approach
+### Core Values and Management Approach
 
 1. **Focus on Results**  
    I prioritize clear, measurable outcomes over tradition or process for its own sake. Understanding the "why" behind our work helps us assess its true impact.
